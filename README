@@ -2,4 +2,7 @@ PREWORK
 
 This directory contains the initial setup code to flash the CrazyFlie 2.1 device with the app.
 
+The src directory contains the main and source files for the UAS-SSB collision avoidance method
+as per Dr. Rangel's work in https://doi.org/10.1016/j.ifacol.2018.07.087
+
 This work is unfinished.
